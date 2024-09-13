@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there! I'm João Victor Pereira, 21 years old; currently I'm pursuing a Degree in Information System at UFJF, and also a Back End Developer<br>🧠I have experience in C/C++, Java, JavaScript, TypeScript, React, Node and .Net C#.<br>💻 I'm currently working on College Department known as CGCO (Organizational Knowledge Management Center), Build an API in Node.js and PHP WordPress<br>📚 To continue expanding my knowledge, I'm always looking for a new excinting project and adventures in the world of computing<br>🤝 Let's connect! Feel free to reach out to me with any questions, collaboration opportunities, or just to say hi.
+👋 Hi there! I'm João Victor Pereira, 21 years old; currently I'm pursuing a Degree in Information System at UFJF, and also a Back End Developer<br>🧠I have experience in C/C++, Java, JavaScript, TypeScript, React, Node and .Net C#.<br>💻 I'm currently working on College Department known as CGCO (Organizational Knowledge Management Center), Build an Wordpress Plugin using Node.js<br>📚 To continue expanding my knowledge, I'm always looking for a new excinting project and adventures in the world of computing<br>🤝 Let's connect! Feel free to reach out to me with any questions, collaboration opportunities, or just to say hi.
 
 
 ## 🌐 Socials:
